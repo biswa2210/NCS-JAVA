@@ -19,25 +19,68 @@
 
 <div align="justified">
   
-
+This is a Number Checking system based on object oriented programming concepts of Java. I have created this using specific logics of 25 popular numbers, object orientation in java and various features of Java. There is no Gui in this project but I have focused on the java basic concepts, code reusability and optimized codes. The output screen opens after running the program. It takes a username. Then it takes password. If it matches with the authorization password then we can entre and use the output for various checking. In the main menu there are 3 options. Number checking, number checking within range and exit. For the first 2 options a menu will be opened with total 27 options. Here 25 types of number can be checked. For range we have to provide the lower limit and upper limit. Also we can go to main menu from this menu. I have also created a file named History.txt. Here user will be able to see what has ben checked along with user name, time and reslut. This is an inter-mediate Core Java Project.  
+  
 </div>
 
 ## Purpose :point_down:
 
 <div align="justified">
   
+I have created this project for practising the concepts of object oriented programming with Java and also logic based learning. 
+ 
 </div>
 
 ## Applications :point_down:
 
 <div align="justified">
 
+This Number Checking System can be used any time to check popular numbers and also in a given range.
 
 </div>
  
 ## Folder Structure :point_down:
 
 ```bash
+NCS-JAVA
+ └── Src
+      ├── Main.java
+      ├── COMPONENTS
+      |    ├── DEFINITIONS.java
+      |    ├── FETCHCURRENTDATEANDTIME.java
+      |    ├── HELPERNAVIGATION.java
+      |    ├── HELPERNAVIGATION2.java
+      |    ├── HISTORYSAVER.java
+      |    ├── MENU.java
+      |    ├── NAVIGATOR.java
+      |    ├── RESULTS.java
+      |    └── TAKEINPUTS.java
+      └── LOGICS
+           ├── Amicablenum.java
+           ├── Amstrong_no.java
+           ├── Automorphicnum.java
+           ├── Buzznum.java
+           ├── Circularprime_no.java
+           ├── Composite_no.java
+           ├── Disariumnum.java
+           ├── Duck_no.java
+           ├── Emirp_no.java
+           ├── Evenodd_no.java
+           ├── Fibonaccinumseries.java
+           ├── Happy_no.java
+           ├── Harshad_no.java
+           ├── ISBNnum.java
+           ├── Krishnamurthynum.java
+           ├── Magic_no.java
+           ├── Negativenum.java
+           ├── Neonnum.java
+           ├── Palindrome_no.java
+           ├── Perfect_no.java
+           ├── Prime_no.java
+           ├── Primepalindrome_no.java
+           ├── Pronicnum.java
+           ├── Smith_no.java
+           └── Special_no.java
 
 ```                       
 
@@ -45,6 +88,7 @@
 
 <div align="justified">
 
+I have implemented this project using intermediate core Java programming concepts. I have researched on various type of numbers and their definitions and logics. Then I have kept all the logics by creating classes for each in LOGICS folder. Then I have implemented the menu, authorization, historysaver in different java files and kept them in COMPONENTS folder. Like this I have created this project.
 
 </div>
 
