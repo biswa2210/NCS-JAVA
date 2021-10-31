@@ -1,6 +1,11 @@
 package LOGICS;
 import java.util.Scanner;
 
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 public class ISBNnum {
     public boolean isbnnum(int n){
         int d,rem,c,s1,s;
