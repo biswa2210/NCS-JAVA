@@ -1,6 +1,11 @@
 package LOGICS;
 import LOGICS.Prime_no;
 
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 public class Circularprime_no {
     public boolean iscircularprime(int n)
     {
