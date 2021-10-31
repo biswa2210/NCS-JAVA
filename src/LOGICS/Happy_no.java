@@ -1,5 +1,10 @@
 package LOGICS;
 
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 public class Happy_no
 {
     public int sumofsquaredigit (int n)
