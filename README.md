@@ -23,6 +23,10 @@ This is a Number Checking system based on object oriented programming concepts o
   
 </div>
 
+## NUMBER CHECKING SYSTEM DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=VIYkMtxO7LA&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0&index=7">Click here to watch</a>
+
+## JAVA PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=bCoFqFb76Jc&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0">Click here to watch</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
